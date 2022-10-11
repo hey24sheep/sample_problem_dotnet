@@ -1,0 +1,1 @@
+dotnet clean;dotnet build;dotnet test -l:"trx;LogFileName=test_output.xml"

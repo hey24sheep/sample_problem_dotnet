@@ -1,0 +1,6 @@
+1- copy & pase the code from "solution_ProductController.cs" to file "ProductController.cs"
+2- run clean_build_test.sh (to check all tests combined)
+
+NOTE : 
+3- to test only "private" tests, just run "clean_build_test_private.sh"
+4- to test only "public" tests, just run "clean_build_test_public.sh"
